@@ -12,11 +12,11 @@
 
 ```javascript
 const ayesha = {
-  role: "Frontend Developer",
+  role: "Flutter Developer",
   experience: "Feb 2024 - Present",
   education: "Software Engineering @ Comstats University Islamabad",
   focus: ["Flutter", "Dart", "Clean Architecture", "Performance Optimization"],
-  learning: "Backend Development (Node.js, MongoDB)"
+  learning: "Backend Development"
 };
 ```
 ## Technical Skills
@@ -50,7 +50,7 @@ const ayesha = {
 
 ## Experience & Education
 
-### Frontend Developer
+### Flutter Developer
 *Splenify*
 *Feb 2024 — Present*
 
