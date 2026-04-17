@@ -51,6 +51,7 @@ const ayesha = {
 ## Experience & Education
 
 ### Frontend Developer
+*Splenify*
 *Feb 2024 — Present*
 
 - Develop and maintain production-grade Flutter applications
